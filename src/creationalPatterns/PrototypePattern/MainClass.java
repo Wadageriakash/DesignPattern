@@ -1,5 +1,7 @@
 package creationalPatterns.PrototypePattern;
 
+// ==> It is used when we have to make clone or copy of the existing Object.
+
 class Students implements Prototype {
 	String name;
 //	private int rollnum; // due to visibility it is commented... 
